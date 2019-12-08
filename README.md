@@ -12,5 +12,6 @@
                       car detection code.
 
 ## Car-detection system(elem_car2):
+  Contains Cascade classifer file best_cars.xml and burst.py
   elem_car2 contains the files for car detection system. burst.py has the code in python which detects cars by taking a burst
-  5 photos on picamera for some time duation and the result that car is parked or not in one of tyhe 3 parking spots is used as a verification tool from data coming from piezoelectric sensors and the output is then written in logfile.
+  5 photos on picamera for some time duation and the result that car is parked or not in one of tyhe 3 parking spots is used as a verification tool for data coming from piezoelectric sensors and the output is then written in logfile.
