@@ -1,3 +1,8 @@
+#Takes burst of 5 photos and program runs for given duration before exiting. It processes each photo 
+#by diving it into 3 parts and runs object detection method on each part to determine if car is present 
+#in that parking spot or not. The images captured are saved in a folder temporarily before deleting 
+#so as to use space judiciously.
+
 #import libraries of python opencv
 import cv2
 import numpy as np
