@@ -20,6 +20,7 @@ print(img.shape[0:2])
 # subimg1=cv2.resize(old1,dim)
 # subimg2=cv2.resize(old2,dim)
 # subimg3=cv2.resize(old3,dim)
+
 # print(subimg1.shape[0:2])
 
 
