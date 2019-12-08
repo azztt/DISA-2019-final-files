@@ -10,3 +10,6 @@
 ## Server RPi files:
   mqtt_sub_final.py - code written in python 3 for the server raspberry pi reading data sent by the client and validates it using
                       car detection code.
+
+## Car-detection system(elem_car2):
+  
